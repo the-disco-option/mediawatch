@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/mediawatch/static/css/main.22e5f379.chunk.css",
-    "main.js": "/mediawatch/static/js/main.3585dd27.chunk.js",
-    "main.js.map": "/mediawatch/static/js/main.3585dd27.chunk.js.map",
+    "main.js": "/mediawatch/static/js/main.8509f59a.chunk.js",
+    "main.js.map": "/mediawatch/static/js/main.8509f59a.chunk.js.map",
     "runtime~main.js": "/mediawatch/static/js/runtime~main.e04b0104.js",
     "runtime~main.js.map": "/mediawatch/static/js/runtime~main.e04b0104.js.map",
     "static/js/2.f57c6330.chunk.js": "/mediawatch/static/js/2.f57c6330.chunk.js",
     "static/js/2.f57c6330.chunk.js.map": "/mediawatch/static/js/2.f57c6330.chunk.js.map",
     "index.html": "/mediawatch/index.html",
-    "precache-manifest.221ad5ee3b9e5c0d90c7dddf41b6b002.js": "/mediawatch/precache-manifest.221ad5ee3b9e5c0d90c7dddf41b6b002.js",
+    "precache-manifest.25bbe2ee788b556f15a5d3dec56cacc3.js": "/mediawatch/precache-manifest.25bbe2ee788b556f15a5d3dec56cacc3.js",
     "service-worker.js": "/mediawatch/service-worker.js",
     "static/css/main.22e5f379.chunk.css.map": "/mediawatch/static/css/main.22e5f379.chunk.css.map"
   }
