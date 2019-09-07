@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.22e5f379.chunk.css",
-    "main.js": "/static/js/main.325a212f.chunk.js",
-    "main.js.map": "/static/js/main.325a212f.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.8ec18785.js",
-    "runtime~main.js.map": "/static/js/runtime~main.8ec18785.js.map",
-    "static/js/2.51c0a69d.chunk.js": "/static/js/2.51c0a69d.chunk.js",
-    "static/js/2.51c0a69d.chunk.js.map": "/static/js/2.51c0a69d.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.c04ec1cd4f29540865cb693d5061d2dc.js": "/precache-manifest.c04ec1cd4f29540865cb693d5061d2dc.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.22e5f379.chunk.css.map": "/static/css/main.22e5f379.chunk.css.map"
+    "main.css": "/mediawatch/static/css/main.22e5f379.chunk.css",
+    "main.js": "/mediawatch/static/js/main.dfe735d8.chunk.js",
+    "main.js.map": "/mediawatch/static/js/main.dfe735d8.chunk.js.map",
+    "runtime~main.js": "/mediawatch/static/js/runtime~main.e04b0104.js",
+    "runtime~main.js.map": "/mediawatch/static/js/runtime~main.e04b0104.js.map",
+    "static/js/2.51c0a69d.chunk.js": "/mediawatch/static/js/2.51c0a69d.chunk.js",
+    "static/js/2.51c0a69d.chunk.js.map": "/mediawatch/static/js/2.51c0a69d.chunk.js.map",
+    "index.html": "/mediawatch/index.html",
+    "precache-manifest.7a0c9200773133cb9d2e6c22a45ae7f8.js": "/mediawatch/precache-manifest.7a0c9200773133cb9d2e6c22a45ae7f8.js",
+    "service-worker.js": "/mediawatch/service-worker.js",
+    "static/css/main.22e5f379.chunk.css.map": "/mediawatch/static/css/main.22e5f379.chunk.css.map"
   }
 }
