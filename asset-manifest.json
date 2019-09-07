@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/mediawatch/static/css/main.22e5f379.chunk.css",
-    "main.js": "/mediawatch/static/js/main.dfe735d8.chunk.js",
-    "main.js.map": "/mediawatch/static/js/main.dfe735d8.chunk.js.map",
+    "main.js": "/mediawatch/static/js/main.3585dd27.chunk.js",
+    "main.js.map": "/mediawatch/static/js/main.3585dd27.chunk.js.map",
     "runtime~main.js": "/mediawatch/static/js/runtime~main.e04b0104.js",
     "runtime~main.js.map": "/mediawatch/static/js/runtime~main.e04b0104.js.map",
-    "static/js/2.51c0a69d.chunk.js": "/mediawatch/static/js/2.51c0a69d.chunk.js",
-    "static/js/2.51c0a69d.chunk.js.map": "/mediawatch/static/js/2.51c0a69d.chunk.js.map",
+    "static/js/2.f57c6330.chunk.js": "/mediawatch/static/js/2.f57c6330.chunk.js",
+    "static/js/2.f57c6330.chunk.js.map": "/mediawatch/static/js/2.f57c6330.chunk.js.map",
     "index.html": "/mediawatch/index.html",
-    "precache-manifest.7a0c9200773133cb9d2e6c22a45ae7f8.js": "/mediawatch/precache-manifest.7a0c9200773133cb9d2e6c22a45ae7f8.js",
+    "precache-manifest.221ad5ee3b9e5c0d90c7dddf41b6b002.js": "/mediawatch/precache-manifest.221ad5ee3b9e5c0d90c7dddf41b6b002.js",
     "service-worker.js": "/mediawatch/service-worker.js",
     "static/css/main.22e5f379.chunk.css.map": "/mediawatch/static/css/main.22e5f379.chunk.css.map"
   }
