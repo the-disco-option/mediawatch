@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5174f478791149bdad5ba37a4f51e4c6",
+    "revision": "3bfdff4dfe562b4f598ee69b41456012",
     "url": "/mediawatch/index.html"
   },
   {
-    "revision": "7e12b8ebc6861fcfcf84",
-    "url": "/mediawatch/static/css/main.7bb65cc6.chunk.css"
+    "revision": "5d11968da25f7d49accd",
+    "url": "/mediawatch/static/css/main.2e111698.chunk.css"
   },
   {
-    "revision": "1245d335d87b224b31c8",
-    "url": "/mediawatch/static/js/2.3a474cae.chunk.js"
+    "revision": "7ccaa051d9faf6478e98",
+    "url": "/mediawatch/static/js/2.ea0fe9ea.chunk.js"
   },
   {
-    "revision": "7e12b8ebc6861fcfcf84",
-    "url": "/mediawatch/static/js/main.816dcc0e.chunk.js"
+    "revision": "5d11968da25f7d49accd",
+    "url": "/mediawatch/static/js/main.6b0c982c.chunk.js"
   },
   {
     "revision": "be5d32d0a8e777426fac",
